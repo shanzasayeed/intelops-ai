@@ -22,6 +22,10 @@ where it came from. It also makes sure an intern can't pull salary data just by 
 
 All data shown is fictional sample data.
 
+As Intern, only the knowledge base is available; the RAG agent answers from the WFH policy document.
+
+![Intern asks about the WFH policy and the RAG agent answers from company documents](docs/docs-answer.png)
+
 **A data question as HR.** The SQL agent answers "Average salary by department" and draws the chart. The
 role panel on the left shows HR can reach company documents and employee data only.
 
